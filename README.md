@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 # Awesome Isabelle
 
 Follow an Isabelle/HOL theory from an interactive proof to a reusable session. Check the object logic when following examples, especially Isabelle/ZF material.
